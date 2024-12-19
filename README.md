@@ -2,10 +2,14 @@
   <img src="media/banner.png" style="width: 100%;" alt="banner" >
 </h1>
 
+<div align="center">
+  <p align="justify">
+    LIMITUS is a privacy-centric, AI-powered automation platform designed to transform your devices into autonomous agents. It supports multi-step workflows and complex tasks, such as DeFi trading, while ensuring your data remains secure whether deployed locally or in the cloud.
+  </p>
+</div>
 
-# LIMITUS
-LIMITUS is a privacy-centric, AI-powered automation platform designed to transform your devices into autonomous agents. It supports multi-step workflows and complex tasks, such as DeFi trading, while ensuring your data remains secure whether deployed locally or in the cloud.
 
+---
 
 ## Features
 
