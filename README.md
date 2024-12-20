@@ -46,5 +46,21 @@ For maximum privacy and control, LIMITUS provides an LLM exe that can be deploye
 
 ## Our Team
 <a href="https://github.com/Saitarun994">
-<img src="https://github.com/Saitarun994.png" width="80px;"/>
+  <img src="https://github.com/Saitarun994.png" width="80px;"/>
+</a>
+
+<a href="https://github.com/Lucas749">
+  <img src="https://github.com/Lucas749.png" width="80px;"/>
+</a>
+
+<a href="https://github.com/Dre1896">
+  <img src="https://github.com/Dre1896.png" width="80px;"/>
+</a>
+
+<a href="https://github.com/khsibr">
+<img src="https://github.com/khsibr.png" width="80px;"/>
+</a>
+
+<a href="https://github.com/DaRytz">
+  <img src="https://github.com/DaRytz.png" width="80px;"/>
 </a>
