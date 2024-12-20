@@ -4,6 +4,7 @@ This branch is dedicated to model fine-tuning and benchmark testing. We focus on
 
 #### Models Used
 
+- **Llama3.1**
 - **Llama3.2**
 - **Llama3.3**
 
