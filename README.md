@@ -1,5 +1,7 @@
 <h1 style="height: 200px; overflow: hidden; ">
-  <img src="media/banner.png" style="width: 100%;" alt="banner" >
+  Powered By
+  <img src="" style="width: 100%;" alt="ollama" >
+  <img src="" style="width: 100%;" alt="unsoloth" >
 </h1>
 
 <div align="center">
