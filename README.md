@@ -41,3 +41,10 @@ LIMITUS utilizes a Kubernetes-managed cloud infrastructure to ensure scalable an
 For maximum privacy and control, LIMITUS provides an LLM exe that can be deployed locally on your home network. A simple executable sets up a private LLM server, utilizing FAISS/SQLite for local vector searches and storage. The local setup includes a secure API endpoint accessible only within the home network, ensuring that all data processing and storage remain in-house. This architecture is perfect for users and businesses that prioritize data sovereignty and require offline capabilities for sensitive operations.
   </p>
 </div>
+
+---
+
+## Our Team
+<a href="https://github.com/Saitarun994">
+<img src="https://github.com/Saitarun994.png" width="80px;"/>
+</a>
